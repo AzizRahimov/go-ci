@@ -53,3 +53,4 @@ func main() {
 	nps := (promoters - detractors) * 100 / len(scores)
 	fmt.Println(nps)
 }
+
